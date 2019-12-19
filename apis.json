@@ -1,0 +1,109 @@
+{
+    "name": "GlobeNewswire",
+    "description": "Providing you with GlobeNewswire product updates & support. Follow @MyCorpSolutions for insight on PR and corporate communications.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28285-globenewswire.jpg",
+    "tags": [
+        "api provider",
+        "communications",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/globenewswire\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GlobeNewswire",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28285-globenewswire.jpg",
+            "humanURL": "http:\/\/globenewswire.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/globenewswire-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/globenewswire.com\/AtomFeed\/country\/United%20States\/feedTitle\/GlobeNewswire%20-%20News%20from%20United%20States"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/globenewswire"
+        },
+        {
+            "type": "Email",
+            "url": "Julie.Jargon@wsj.com"
+        },
+        {
+            "type": "Email",
+            "url": "askcentralbanking@wsj.com"
+        },
+        {
+            "type": "Email",
+            "url": "dpo@businesswire.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@PRNewswire.com"
+        },
+        {
+            "type": "Email",
+            "url": "mediainquiries@prnewswire.com"
+        },
+        {
+            "type": "Email",
+            "url": "mediasite@prnewswire.com"
+        },
+        {
+            "type": "Email",
+            "url": "atendimento@latam.prnewswire.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/WSJ"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Marketwired"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/BusinessWire"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GlobeNewswire"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PRNewswire"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/wsj.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/marketwired.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/businesswire.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/globenewswire.com"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/api.prnewswire.com"
+        }
+    ]
+}
